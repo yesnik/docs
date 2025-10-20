@@ -47,7 +47,6 @@ Finally, include the Composer autoloading script to your project:
     be able to use additional drivers, you should install them (through composer).
     Require the appropriate dependencies:
 
-    - GoutteDriver - ``behat/mink-goutte-driver``
     - Selenium2Driver - ``behat/mink-selenium2-driver``
     - BrowserKitDriver - ``behat/mink-browserkit-driver``
     - ChromeDriver - ``dmore/chrome-mink-driver``
